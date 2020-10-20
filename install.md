@@ -4,10 +4,9 @@ To install Raspberry OS on for your Raspberry Pi follow this instruction<br/>
 2. Open Raspberry Pi Imager
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/1.PNG)<br/><br/>
 3. Choose Recomended OS to install<br/>
-![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/2.PNG)
-To install RaspbianOS on for your raspberry follow this instruction
-![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/3.PNG)
-To install RaspbianOS on for your raspberry follow this instruction
+![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/2.PNG)<br/>
+![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/3.PNG)<br/><br/>
+4. Choose SD Card
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/4.PNG)
 To install RaspbianOS on for your raspberry follow this instruction
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/5.PNG)
