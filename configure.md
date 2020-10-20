@@ -15,4 +15,5 @@ After install the Raspberry Pi OS we continue to do <br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/7.png)<br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/8.png)<br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/9.png)<br/><br/>
+7. Restart your Raspberry Pi. Click Restart to continue.<br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/10.png)
