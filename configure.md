@@ -1,6 +1,6 @@
 # Raspberry OS Configuration
 After install the Raspberry Pi OS we continue to do <br/>
-1. Setup Country and Language
+1. Setup Country and Language <br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/1.png)<br/><br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/2.png)<br/><br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/3.png)<br/><br/>
