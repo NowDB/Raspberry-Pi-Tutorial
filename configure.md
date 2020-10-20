@@ -11,9 +11,8 @@ After install the Raspberry Pi OS we continue to do <br/>
 5. Choose wifi connection. Click Next to continue. <br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/5.png)<br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/6.png)<br/><br/>
-6. Update to latest Raspberry OS. Click Next to continue.
+6. Update to latest Raspberry OS. Click Next to continue.<br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/7.png)<br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/8.png)<br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/9.png)<br/><br/>
-7. Restart your Raspberry Pi. Click Restart to continue.
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_2/10.png)
