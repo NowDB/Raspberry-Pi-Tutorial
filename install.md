@@ -2,7 +2,7 @@
 To install Raspberry OS on for your Raspberry Pi follow this instruction<br/>
 1. Download and Install Raspberry Pi Imager https://www.raspberrypi.org/downloads/<br/>
 2. Open Raspberry Pi Imager
-<img src="https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/1.PNG" width="550" height="330"><br/><br/>
+<img src="https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/1.PNG" height="330"><br/><br/>
 3. Choose Recomended OS to install<br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/2.PNG)<br/>
 ![alt tag](https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/3.PNG)<br/><br/>
