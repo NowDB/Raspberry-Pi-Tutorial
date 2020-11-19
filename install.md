@@ -15,4 +15,4 @@ To install Raspberry OS on for your Raspberry Pi follow this instruction<br/>
 <img src="https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/7.PNG" height="330"><br/>
 <img src="https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/8.PNG" height="330"><br/><br/>
 7. Remove your SD Card and attach to your Raspberry Pi<br/>
-<img src="https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/9.PNG" height="330">
+<img src="https://github.com/NowDB/Raspberry-Pi-Tutorial/raw/main/install_1/9.PNG" height="330"><br/>
